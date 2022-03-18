@@ -1,5 +1,10 @@
 ## 宫佳林 个人主页
 
+<img src="https://hakaimg.com/i/2022/03/18/qjpe82.jpg" 
+width
+="10103" 
+height
+="2916">
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
