@@ -26,19 +26,18 @@ height
 		<div class = "简历">
 			<p style = "text-align:left;color:black;font-size:15px;">简历</p>
 				<img src="应聘游戏运营_宫佳林_女王大学_18561919150.pdf" height = 400>
-			<button onclick="window.location.href = '应聘游戏运营_宫佳林_女王大学_18561919150.pdf'" class="button" style="vertical-align:right"><span>View More </span></button>
+			<button onclick="window.location.href = '应聘游戏运营_宫佳林_女王大学_18561919150.pdf'" class="button" style="vertical-align:right"><span>点击查看 </span></button>
 			</div>
 	<div id="PPT_Pres">
 		<div class = "证书">
 			<p style = "text-align:left;color:black;font-size:15px;">证书</p>
 				<img src="A1/Presentation.jpg" height = 150>
-			<button onclick="window.location.href = 'A1/A1-slits.pptx'" class="button"><span>View More </span></button>
+			<button onclick="window.location.href = 'A1/A1-slits.pptx'" class="button"><span>点击查看 </span></button>
 			</div>
 		<div class = "B站">
 				<p style = "text-align:left;color:black;font-size:15px;">B站</p>
-				<video width="200" controls>
-					<a href="https://space.bilibili.com/7359304">B站个人主页</a>
-				</video>
+				<button onclick="window.location.href = 'https://space.bilibili.com/7359304'" class="button" style="vertical-align:right"><span>点击查看 </span></button>
+				
 			</div>
 	</div>
 		
