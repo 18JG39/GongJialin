@@ -20,9 +20,9 @@ height
 [GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
 
 
-<p style = "color:black;font-size:25px;">个人资料</p>
+<p style = "color:black;font-size:25px;">资料</p>
 
-<div id="个人资料">
+<div id="资料">
 		<div class = "简历">
 			<p style = "text-align:left;color:black;font-size:15px;">简历</p>
 				<img src="应聘游戏运营_宫佳林_女王大学_18561919150.pdf" height = 400>
