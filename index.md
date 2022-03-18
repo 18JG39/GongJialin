@@ -5,13 +5,12 @@ width
 height
 ="197">
 
-## 宫佳林 个人主页
 
-<img src="https://hakaimg.com/i/2022/03/18/qp5j1q.jpg" 
+<img src="https://hakaimg.com/i/2022/03/18/qrc7f0.jpg" 
 width
 ="681" 
 height
-="350.8">
+="320.8">
 
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
