@@ -43,7 +43,6 @@ height
 		
 	</div>
 
-<p style = "color:black;font-size:25px;">个人主页 3</p>
 
 
 <style> #container { width: 800px; height: 340px; display: flex; display: -webkit-flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-around; align-items: flex-start } .a { border: 1px solid black; padding: 10px; width: 250px; height: 320px; border: 5px solid gray; text-align: justify; }
