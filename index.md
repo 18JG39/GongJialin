@@ -6,11 +6,16 @@ height
 ="197">
 
 
-<img src="https://hakaimg.com/i/2022/03/18/qrc7f0.jpg" 
+<img src="https://hakaimg.com/i/2022/03/18/quhgjn.jpg" 
 width
 ="681" 
 height
-="320.8">
+="250.8">
+
+[电话]+86 18561919150
+[邮箱]<a href="mailto:18yh98@queensu.ca">18yh98@queensu.ca</a>
+[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
+
 
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
