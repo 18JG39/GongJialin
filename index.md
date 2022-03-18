@@ -11,7 +11,7 @@ height
 width
 ="681" 
 height
-="276.8">
+="300.8">
 
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
