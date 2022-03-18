@@ -15,6 +15,13 @@ height
 [GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
 
 
+
+<img src="https://hakaimg.com/i/2022/03/18/qjpe82.jpg" 
+width
+="681" 
+height
+="197">
+
 <p style = "color:black;font-size:25px;">资料</p>
 
 <div id="资料">
@@ -45,11 +52,6 @@ height
 
 </style>
 
-<img src="https://hakaimg.com/i/2022/03/18/qjpe82.jpg" 
-width
-="681" 
-height
-="197">
 
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
