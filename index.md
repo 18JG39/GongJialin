@@ -24,18 +24,18 @@ height
 
 <div id="个人资料">
 		<div class = "简历">
-			<p style = "text-align:left;color:green;font-size:15px;">Report</p>
+			<p style = "text-align:left;color:black;font-size:15px;">简历</p>
 				<img src="A1/Report.jpg" height = 400>
 			<button onclick="window.location.href = 'A1/A1-report.pdf'" class="button" style="vertical-align:right"><span>View More </span></button>
 			</div>
 	<div id="PPT_Pres">
 		<div class = "证书">
-			<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
+			<p style = "text-align:left;color:black;font-size:15px;">证书</p>
 				<img src="A1/Presentation.jpg" height = 150>
 			<button onclick="window.location.href = 'A1/A1-slits.pptx'" class="button"><span>View More </span></button>
 			</div>
 		<div class = "B站">
-				<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
+				<p style = "text-align:left;color:black;font-size:15px;">B站</p>
 				<video width="200" controls>
 					<source src="A1/A1-presentation.mp4" type="video/mp4">
 				</video>
@@ -44,7 +44,7 @@ height
 		
 	</div>
 
-<p style = "color:green;font-size:25px;">Assignment 3</p>
+<p style = "color:black;font-size:25px;">个人主页 3</p>
 
 
 <style> #container { width: 800px; height: 340px; display: flex; display: -webkit-flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-around; align-items: flex-start } .a { border: 1px solid black; padding: 10px; width: 250px; height: 320px; border: 5px solid gray; text-align: justify; }
