@@ -38,10 +38,7 @@ height
 				<p style = "text-align:left;color:black;font-size:15px;">B站</p>
 				<button onclick="window.location.href = 'https://space.bilibili.com/7359304'" class="button" style="vertical-align:right"><span>点击查看 </span></button>
 				
-			</div>
-	</div>
-		
-	</div>
+
 
 
 <style> #container { width: 800px; height: 340px; display: flex; display: -webkit-flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-around; align-items: flex-start } .a { border: 1px solid black; padding: 10px; width: 250px; height: 320px; border: 5px solid gray; text-align: justify; }
