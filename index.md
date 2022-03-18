@@ -37,9 +37,9 @@ height
 				<p style = "text-align:left;color:black;font-size:15px;">B站</p>
 				<button onclick="window.location.href = 'https://space.bilibili.com/7359304'" class="button" style="vertical-align:right"><span>点击查看 </span></button>
 				
-<div/>
+<div>
 
+		
 			
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
