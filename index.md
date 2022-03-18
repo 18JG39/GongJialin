@@ -12,9 +12,11 @@ width
 height
 ="250.8">
 
-[电话]+86 18561919150
-[邮箱]<a href="mailto:18yh98@queensu.ca">18yh98@queensu.ca</a>
-[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
+[电话](+86) 18561919150
+
+[邮箱]<a href="mailto:18jg39@queensu.ca">18jg39@queensu.ca</a>
+
+[GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
 
 
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
