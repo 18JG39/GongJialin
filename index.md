@@ -18,6 +18,76 @@ height
 
 [GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
 
+</style>
+<p style = "color:green;font-size:25px;">Assignment 1</p>
+
+<div id="assignment">
+		<div class = "report">
+			<p style = "text-align:left;color:green;font-size:15px;">Report</p>
+				<img src="A1/Report.jpg" height = 400>
+			<button onclick="window.location.href = 'A1/A1-report.pdf'" class="button" style="vertical-align:right"><span>View More </span></button>
+			</div>
+	<div id="PPT_Pres">
+		<div class = "ppt">
+			<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
+				<img src="A1/Presentation.jpg" height = 150>
+			<button onclick="window.location.href = 'A1/A1-slits.pptx'" class="button"><span>View More </span></button>
+			</div>
+		<div class = "pres">
+				<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
+				<video width="200" controls>
+					<source src="A1/A1-presentation.mp4" type="video/mp4">
+				</video>
+			</div>
+	</div>
+		
+	</div>
+
+<p style = "color:green;font-size:25px;">Assignment 2</p>
+
+<div id="assignment">
+		<div class = "report">
+			<p style = "text-align:left;color:green;font-size:15px;">Report</p>
+			</div>
+	<div id="PPT_Pres">
+		<div class = "ppt">
+			<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
+			</div>
+		<div class = "pres">
+				<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
+				<video width="200" controls>
+					<source>
+				</video>
+			</div>
+	</div>
+		
+	</div>
+
+<p style = "color:green;font-size:25px;">Assignment 3</p>
+
+<div id="assignment">
+		<div class = "report">
+			<p style = "text-align:left;color:green;font-size:15px;">Report</p>
+			</div>
+	<div id="PPT_Pres">
+		<div class = "ppt">
+			<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
+			</div>
+		<div class = "pres">
+				<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
+				<video width="200" controls>
+					<source>
+				</video>
+			</div>
+	</div>
+		
+	</div>
+<style> #container { width: 800px; height: 340px; display: flex; display: -webkit-flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-around; align-items: flex-start } .a { border: 1px solid black; padding: 10px; width: 250px; height: 320px; border: 5px solid gray; text-align: justify; }
+.img_center{ display: block; margin-left: auto; margin-right: auto; width: 70%; border-radius: 50%; }
+
+.text_center{ text-align: center; }
+
+</style>
 
 You can use the [editor on GitHub](https://github.com/18JG39/gongjialin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
