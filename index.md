@@ -19,7 +19,7 @@ height
 
 [GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
 
-</style>
+
 <p style = "color:black;font-size:25px;">个人资料</p>
 
 <div id="个人资料">
