@@ -37,7 +37,7 @@ height
 		<div class = "B站">
 				<p style = "text-align:left;color:black;font-size:15px;">B站</p>
 				<video width="200" controls>
-					<source src="A1/A1-presentation.mp4" type="video/mp4">
+					<a href="https://space.bilibili.com/7359304">B站个人主页</a>
 				</video>
 			</div>
 	</div>
