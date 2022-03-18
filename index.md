@@ -12,7 +12,7 @@ width
 height
 ="200.8">
 
-[电话](+86) 18561919150
+[电话] +86 18561919150
 
 [邮箱]<a href="mailto:18jg39@queensu.ca">18jg39@queensu.ca</a>
 
